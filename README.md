@@ -1,10 +1,16 @@
 #DVE
 
-Laboratory Activity:
+Laboratory Activity Reference:
+
+* [Bootstrap Layout Examples](http://v4-alpha.getbootstrap.com/examples)
+* [MaterializeCSS Components](http://materializecss.com/)
+* [Bootstrap Components](http://getbootstrap.com/components)
+* [Materialize Icons](http://materializecss.com/icons.html)
+
 
 Setup decodeApp boilerplate:
 
-1. Get tools from http://172.30.10.135/st
+1. Get tools (sublime and portableGit) from http://172.30.10.135/st
 2. Fork decodeapp_boilerplate
 3. Open git bash
    
@@ -52,6 +58,6 @@ Finney	- 192.168.1.19:4000 3/3
 Fabro	- 192.168.1.22:4000 2/3
 Europa  - 192.168.1.12:4000
 Canangga- 192.168.1.24:4000 3/3
-Japitan - 192.168.1.8:4000
+Japitan - 192.168.1.8:4000 3/3
 Moral   - 192.168.1.11:4000 3/3
 Quisay   - 192.168.1.9:4000
