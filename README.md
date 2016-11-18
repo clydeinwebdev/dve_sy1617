@@ -44,20 +44,25 @@ Setup decodeApp boilerplate:
 	
 10. Fin
 
-Activity 111716 Tasks
 
-Change Title
-Change Faveicon
-Use Jumbotrun Layout (google: bootstrap example)
+#Activity 111716
 
-Prajes 	- 192.168.1.15:4000 3/3
-Ugat	- 192.168.1.25:4000 3/3	
-Suarez	- 192.168.1.17:4000 3/3
-Punay	- 192.168.1.26:4000 3/3
-Finney	- 192.168.1.19:4000 3/3
-Fabro	- 192.168.1.22:4000 2/3
-Europa  - 192.168.1.12:4000
-Canangga- 192.168.1.24:4000 3/3
-Japitan - 192.168.1.8:4000 3/3
-Moral   - 192.168.1.11:4000 3/3
-Quisay   - 192.168.1.9:4000
+###Tasks 
+
+* Change Title
+* Change Faveicon
+* Use Jumbotrun Layout (google: bootstrap example)
+
+###Results
+
+* Prajes 	- 192.168.1.15:4000 3/3
+* Ugat	- 192.168.1.25:4000 3/3	
+* Suarez	- 192.168.1.17:4000 3/3
+* Punay	- 192.168.1.26:4000 3/3
+* Finney	- 192.168.1.19:4000 3/3
+* Fabro	- 192.168.1.22:4000 2/3
+* Europa  - 192.168.1.12:4000
+* Canangga- 192.168.1.24:4000 3/3
+* Japitan - 192.168.1.8:4000 3/3
+* Moral   - 192.168.1.11:4000 3/3
+* Quisay   - 192.168.1.9:4000
