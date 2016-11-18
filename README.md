@@ -66,3 +66,5 @@ Setup decodeApp boilerplate:
 * Japitan - 192.168.1.8:4000 3/3
 * Moral   - 192.168.1.11:4000 3/3
 * Quisay   - 192.168.1.9:4000
+* Hanoyan - 192.168.1.7:4000 3/3
+* Ponlaon - 192.168.1.5:4000 3/3
